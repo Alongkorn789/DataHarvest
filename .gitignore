@@ -1,0 +1,11 @@
+data/*.csv
+data/*.xlsx
+.env
+.DS_Store
+.idea/
+__pycache__/
+*.pyc
+scripts/*.csv
+Thumbs.db
+venv/
+.vscode/
